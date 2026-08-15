@@ -1,6 +1,6 @@
-# Browser Agent
+# Fill in CV Agent
 
-一个读取本地 `career-ops` 资料并自动填写求职表单的 CLI Agent。它可以处理输入框、日期、下拉框和重复经历卡片，但**永远不会提交申请**。
+一个读取本地 `career-ops` 资料并自动填写求职表单的 CLI Agent。它可以处理输入框、日期、下拉框和重复经历卡片，但**永远不会提交申请**。配合career-ops项目生成cv.md以及相关的待填报列表体验更佳。
 
 ## 安装与配置
 
