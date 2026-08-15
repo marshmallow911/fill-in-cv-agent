@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.DS_Store
+.env
+.env.*
+!.env.example
+.codex-local/
+.browseragent/
+.vscode/
+.idea/
+
+# Local credentials and generated diagnostics
+*.pem
+*.key
+*.p12
+*.trace.json
+data/form-secrets.json
